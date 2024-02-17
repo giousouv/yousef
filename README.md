@@ -25,7 +25,7 @@ tone of flow and great organization.
 ![image](https://github.com/giousouv/yousef/assets/151474665/9e96ada4-0fce-45f6-82a9-aabb1aed9bce)
 
 ## Technologies
-HTML5: The structure of the webpage is written in HTML5, as indicated by the <!DOCTYPE html> declaration at the beginning of the document and the use of HTML5 semantic elements such as <html>, <head>, <title>, <body>, <form>, <input>, <button>, and <div>.
+HTML5: The structure of the webpage is written in HTML5, as indicated by the "<!DOCTYPE html>" declaration at the beginning of the document and the use of HTML5 semantic elements such as "<html>", "<head>", "<title>", "<body>", "<form>", "<input>", "<button>", and "<div>".
 
 CSS3: Cascading Style Sheets (CSS) are used to style the HTML elements. Various CSS properties like background-color, font-family, padding, margin, box-sizing, box-shadow, border-radius, color, width, cursor, etc., are utilized for styling.
 
